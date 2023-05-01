@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'P9';
+    src: url('../fonts/Poppins-Black.ttf');
+}
+@font-face {
+    font-family: 'P7';
+    src: url('../fonts/Poppins-Bold.ttf');
+}
+@font-face {
+    font-family: 'P5';
+    src: url('../fonts/Poppins-Medium.ttf');
+}
+@font-face {
+    font-family: 'P4';
+    src: url('../fonts/Poppins-Regular.ttf');
+}
+@font-face {
+    font-family: 'P6';
+    src: url('../fonts/Poppins-SemiBold.ttf');
+}

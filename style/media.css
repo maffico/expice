@@ -1,0 +1,726 @@
+@media (max-width:1300px){
+    .header-nav__user{
+        margin-left: 0;
+    }
+}
+@media (max-width:1194px){
+    .header-nav .nav-list{
+        display: none;
+    }
+    .header-nav__user{
+        display: none;
+    }
+    .nav-icon-6{
+        display: inline-block;
+    }
+    .menu-content{
+        display: flex;
+    }
+}
+@media (max-width:1880px){
+    .booking__form{
+        padding: 145px 200px 120px 520px;
+    }
+    .booking__left-decoration{
+        top: 47%;
+        left: -7%;
+    }
+}
+@media (max-width:1741px){
+    .booking__right-decoration{   
+        right: -40px;
+    }
+}
+@media (max-width:1680px){
+    .foods-cards{
+        gap: 40px 30px;
+    }
+    .services__card1 img{
+        padding: 80px;
+    }
+    .services__card2 img{
+        padding: 80px 60px;
+    }
+    .services__card3{
+        padding: 105px 109px 122px;
+    }
+    .services-cards{
+        justify-content: center;
+    }
+}
+@media (max-width:1662px){
+    .header-nav__user {
+        margin-left: 0;
+    }
+    .header::after{
+        width: 320px;
+        height: 1050px;
+    }
+    .header-content-img1{
+        width: 750px;
+    }
+    .header-content-img2{
+        width: 670px;
+    }
+    .header-content__carousel{
+        bottom: 280px;
+        right: 70px;
+    }
+}
+@media (max-width:1646px){
+    .booking__right-decoration {
+        width: 300px;
+        right: -80px;
+    }
+    .booking__left-decoration{
+        left: -9%;
+    }
+    .booking__form{
+        padding: 145px 150px 120px 450px;
+    }
+    .restaurant-more{
+        margin-left: 50px;
+    }
+    .download__img{
+        right: 0;
+    }
+    .download__bg1{
+        right: 150px;
+    }
+    .download__bg2{
+        right: 98px;
+    }
+}
+@media (max-width:1534px){
+    .header-content__location{
+        bottom: 100px;
+    }
+    .header{
+        height: 1048px;
+    }
+    .restaurant__card-content{
+        gap: 10px;
+        padding: 20px 30px 19px 30px;
+    }
+    .restaurant__card-content p{
+        width: 297px;
+    }
+    .restaurant__card img:nth-child(2){
+        width: 494px;
+    }
+    .restaurant__card{
+        width: 494px;
+    }
+    .restaurants{
+        padding: 100px 0 210px;
+    }
+    .header::after{
+        width: 270px;
+    }
+    .header-content-img1{
+        width: 650px;
+    }
+    .header-content-img2{
+        width: 600px;
+    }
+    .header-content__carousel{
+        bottom: 180px;
+        right: 50px;
+    }
+    .section-text{
+        padding: 0 100px 0 65px;
+    }
+}
+@media (max-width:1480px){
+    .services > img{
+        display: none;
+    }
+    .services .section-heading{
+        width: max-content;
+    }
+}
+@media (max-width:1450px){
+    .booking__left-decoration{
+        width: 500px;
+        top: 60%;
+    }
+    .booking__form{
+        padding: 145px 150px 120px 380px;
+    }
+    .booking{
+        padding: 199px 0 126px;
+    }
+
+}
+@media (max-width:1434px){
+    .header-content__location{
+        bottom: 0;
+    }
+    .header{
+        height: 848px;
+    }
+    .footer > img{
+        left: -190px;
+    }
+    .restaurants{
+        padding: 300px 0 210px;
+    }
+    .header::after{
+        width: 240px;
+    }
+    .header-content-img1{
+        width: 600px;
+    }
+    .header-content-img2{
+        width: 550px;
+        top: -160px;
+    }
+    .header-content__carousel{
+        bottom: 30px;
+        right: 20px;
+    }
+    .section-text{
+        padding: 0 15px 0 65px;
+    }
+}
+@media (max-width:1385px){
+    .download{
+        padding: 289px 0 418px;
+    }
+    .download__img{
+        width: 514px;
+        top: 10%;
+    }
+    .download__bg1{
+        width: 522px;
+        top: 43%;
+    }
+    .download__bg2{
+        width: 500px;
+        top: 35%;
+    }
+    .restaurants{
+        padding: 100px 0 210px;
+    }
+    .header-content-img1{
+        width: 550px;
+    }
+    .header-content-img2{
+        width: 480px;
+        top: -120px;
+    }
+    h1{
+        font-size: 150px;
+        line-height: 90px;
+    }
+    .header-content__text h2{
+        font-size: 55px;
+    line-height: 90px;
+    }
+    .header-nav__form input{
+        width: 295px;
+    }
+    .form-button{
+        padding: 0 50px;
+    }
+    .header-content__carousel{
+        bottom: 90px;
+    }
+    .header::after{
+        height: 900px;
+    }
+}
+@media (max-width:1310px){
+    .restaurants .section-text p{
+        max-width: 500px;
+    }
+}
+@media (max-width:1279px){
+    .booking__form {
+        padding: 86px 94px 36px 333px;
+    }
+    .booking__left-decoration{
+        width: 450px;
+    }
+}
+@media (max-width:1210px){
+    .restaurants  .section-text p{
+        max-width: 400px;
+    }
+}
+@media (max-width:1196px){
+    .restaurants  .section-text p{
+        max-width: 369px;
+    }
+    .restaurant-more{
+        position: absolute;
+        right: 150px;
+        bottom: -150px;
+    }
+
+}
+@media (max-width:1157px){
+    .restaurants{
+        padding: 170px 0 210px;
+    }
+    .footer > img{
+        left: -260px;
+    }
+    .header-content-img1 {
+        width: 480px;
+    }
+    .header-content-img2 {
+        left: -40px;
+        top: -120px;
+    }
+}
+@media (max-width:1120px){
+    .foods-cards{
+        gap: 30px;
+    }
+    .foods .section-heading{
+        margin-top: 90px;
+    }
+}
+@media (max-width:1100px){
+    .header-content__location {
+        bottom: 900px;
+    }
+}
+@media (max-width:1100px){
+    .header{
+        height: 1648px;
+    }
+    .header-content{
+        flex-direction: column;
+    }
+    .header-content__img{
+        display: none;
+    } 
+    .header-content-img3{
+        display: block;
+        align-self: flex-end;
+    }
+    .header-content__carousel{
+        bottom: 300px;
+    }
+    .header::after{
+        height: 1500px;
+    }
+    .restaurants{
+        padding: 0 0 210px;
+    }
+    .header-content-img3{
+        width: 700px;
+    }
+}
+@media (max-width:1070px){
+    .restaurants .section-text p{
+        max-width: 609px;
+    }
+    .section-text{
+        gap: 30px;
+    }
+    .booking__right-decoration {
+        width: 250px;
+        right: -80px;
+        top: 80%;
+    }   
+    .booking__left-decoration {
+        width: 400px;
+        left: -15%;
+    }
+}
+@media (max-width:1063px){
+    .booking__form {
+        padding: 86px 44px 36px 233px;
+    }
+}
+
+@media (max-width:1020px){
+    .download__img{
+        top: 30%;
+        right: 20%;
+    }
+    .download__bg1{
+        top: 50%;
+        right: 35%;
+    }
+    .download__bg2{
+        width: 850px;
+        top: 25%;
+        right: 35%;
+    }
+    .download{
+        padding: 64px 0 900px;
+    }
+}
+@media (max-width:1040px){
+    .restaurant-cards{
+        justify-content: center;
+        padding: 0 15px;
+    }
+}
+@media (max-width:975px){ 
+    .header-content__location {
+        bottom:750px;
+        z-index: 10;
+    }
+    .header{
+        height: 1548px;
+    }
+    .footer > img{
+        width: 500px;
+        left: -190px;
+    }
+    .footer .section-text{
+        margin-bottom: 30px;
+    }
+    .footer .nav-list{
+        margin-top: 30px;
+    }
+    .footer{
+        padding: 120px 15px 185px;
+    }
+    .header-content-img3{
+        width: 600px;
+    }
+    .header::after{
+        height: 1400px;
+    }
+
+}
+@media (max-width:913px){ 
+    .header-content-img3{
+        transform: translateY(0);
+    }
+    .header-content__carousel {
+        bottom: 170px;
+    }
+    .header::after{
+        height: 1500px;
+    }
+    .restaurants{
+        padding: 100px 0 210px;
+    }
+    .download .section-heading{
+        width: 475px;
+    }
+    .booking__form {
+        padding: 86px 150px 36px 333px;
+    }
+    .booking__left-decoration{
+        left: -20%;
+    }
+    .booking__heading{
+        font-size: 24px;
+    }
+    .booking__heading::after{
+        width: 150px;
+        height: 10px;
+        top: -20px;
+    }
+    .booking__form-info{
+        gap: 20px;
+    }
+    .booking__form-search input {
+        width: 133px;
+    }
+    .booking__form-search .form-button{
+        padding: 0 20px;
+        line-height: 40px;
+    }
+    .booking__form-search{
+        padding: 5px 10px;
+        margin: 40px 0;
+    }
+    .booking__form{
+        padding-left: 200px;
+    }
+@media (max-width:855px){
+    .services .section-text {
+        margin-bottom: 100px;
+    }
+    .services {
+        padding: 163px 15px 100px;
+    }
+    .footer > img{
+       width: 400px;
+       left: -180px; 
+       bottom: 100px;
+    }
+    .services__card1{
+        gap: 45px;  
+    }
+    .services__card2{
+        gap: 42px;
+    }
+    .services__card3{
+        padding: 105px 109px 122px;
+    }
+    .services__card1 img{
+        padding: 90px 95px;
+    }
+    .services__card2 img{
+        padding: 114px 95px;
+    }
+    .services-cards{
+        gap: 30px;
+    }
+    .services-cards__left{
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+    .services__card1 h5::before,  .services__card2 h5::after {
+        display: none;
+    }
+}
+@media (max-width:836px){
+    .socials-and-rights{
+        right: 50%;
+        transform: translateX(50%);
+        gap: 42px;
+    }
+}
+@media (max-width:707px){
+    .socials-and-rights{
+        right: 50%;
+        transform: translateX(50%);
+        gap: 42px;
+    }
+    .booking__form{
+        padding-right: 23px;
+    }
+    .booking__left-decoration {
+        left: -30%;
+    }
+    .booking__right-decoration {
+        right: -100px;
+    }
+}
+@media (max-width:688px){
+    .footer > img{
+        display: none;
+    }
+
+    .footer__form input{
+        width: 299px;
+    }
+    .section-heading{
+        font-size: 36px;
+        line-height: 48px;  
+        width: 464px;
+        margin-top: 50px;
+    }
+    .footer .section-text h3{
+        font-size: 24px;
+        line-height: 32px;
+
+    }
+    .footer{
+        padding: 69px 15px 90px;
+    }
+    .socials-and-rights{
+        bottom: 10px;
+        gap: 5px;
+    }
+    .download-buttons{
+        padding-left: 35px;
+    }
+    .foods .section-heading{
+        width: max-content;
+    }
+    .section-heading::before{
+        width: 12px;
+        left: -25px;
+    }
+    .section-text{
+        padding: 0 15px 0 35px;
+    }
+    .download__img{
+        width: 317px;
+        top: 40%;
+    }
+    .download__bg1{
+        width: 348px;
+        top: 55%;
+    }
+    .download__bg2{
+        width: 550px;
+        right: 0;
+    }
+    .download{
+        padding: 64px 0 600px;
+    }
+}
+@media (max-width:668px){ 
+    .header-content__carousel{
+        bottom: 10px;
+    }
+    .header{
+        height: 1248px;
+    }
+    .services__card2{
+        justify-content: center;
+    }
+    h1{
+        font-size: 100px;
+        
+    }
+    .header-content__text h2{
+        font-size: 36px;
+        line-height: 48px
+    }
+    .header-nav__logo{
+        font-size: 48px;
+        line-height: 72px;
+    }
+    .header-content-img3{
+        width: 507px;
+        transform: translateY(10%);
+    }
+    .header-content__location {
+        bottom:600px;
+    }
+    .header::after{
+        height: 1300px;
+    }
+
+}
+@media (max-width:682px){
+    .socials-and-rights{
+        flex-direction: column;
+        gap: 15px;
+    }
+}   
+@media (max-width:530px){
+    .restaurant__card, .restaurant__card img:nth-child(2){
+        width: 380px;
+    }
+    .restaurant__card-content{
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .restaurant__card-heading{
+        font-size: 19px;
+    }
+    .restaurant__card-button{
+        bottom: 300px;
+    }
+    .download .section-heading{
+        width: 350px;
+    }
+}
+@media (max-width:525px){ 
+    .header{
+        height: 1148px;
+    }
+    .header-content-img3{
+        align-self: flex-start;
+        width: 400px;
+        transform: translateY(20%);
+    }
+    .header-nav__form input{
+        width: 180px;
+    }
+    .header-content__location{
+        border: 2px  #FFF5EC solid;
+        bottom: 500px;
+    }
+    .restaurants{
+        padding: 200px 0 210px;
+    }
+}
+@media (max-width:575px){
+    .foods__card-link, .foods__card-link img{
+        width: 514px;
+    }
+    .booking__right-decoration {
+        width: 200px;
+    }
+    .booking__left-decoration{
+        width: 350px;
+    }
+    .booking__form {
+        padding-left: 150px;
+    }
+    .booking-form__right-decoration {
+        width: 200px;
+        top: -40px;
+        right: -40px;
+    }
+    .booking-form__left-decoration {
+        bottom: -40px;
+        left: 12%;
+        width: 200px;
+    }
+    .booking {
+        padding: 85px 0 96px;
+    }
+    
+    
+}
+@media (max-width:543px){
+    .foods__card-link, .foods__card-link img{
+        width: 350px;
+    }
+}
+@media (max-width:600px){
+    .services__card3{
+        padding: 40px;
+    }
+}
+@media (max-width:543px){
+    .foods .section-text p{
+        max-width: 304px;
+    }
+}
+@media (max-width:506px){
+    .section-heading{
+        font-size: 32px;
+        line-height: 42px; 
+    }
+    .booking-form__left-decoration, .booking-form__right-decoration, .booking__left-decoration, .booking__right-decoration{
+        display: none;
+    }
+    .booking__form {
+        padding-left: 23px;
+        margin: auto;
+    }
+}
+@media (max-width:485px){
+    .footer .nav-list{
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+    .footer__form input{
+        width: 200px;
+    }
+    .footer .section-text h3 {
+        font-size: 20px;
+        line-height: 30px;
+        width: 300px;
+    }
+    .footer .section-text p{
+        width: 300px;
+    }
+}
+@media (max-width:441px){
+    .download-buttons{
+        gap: 5px;
+        margin-top: 15px;
+    }
+    .download__bg1{
+        right: 30%;
+    }
+
+}
+@media (max-width:426px){
+    .download__img{
+
+        top: 45%;
+    }
+}
+}
